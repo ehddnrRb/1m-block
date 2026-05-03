@@ -1,4 +1,4 @@
-TARGET = netfilter-test
+TARGET = 1m-block
 
 all: $(TARGET)
 
